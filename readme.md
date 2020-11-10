@@ -1,7 +1,8 @@
 # seek-fastapi
 #### Учебный проект от AivanF, IQ-Beat
 
-## Get value from key in JSON and YAML file: web-server version based on FastAPI
+## Get value from key in JSON and YAML file
+#### Web-server version based on FastAPI
 
 Usage:
 

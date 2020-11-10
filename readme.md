@@ -6,6 +6,8 @@
 
 Usage:
 
-        `uvicorn main:app --reload`
+0. Clone this repository and import all dependencies
 
-        Visit `localhost:8000`, upload file (`json, yaml`) and set key.
+1. `uvicorn main:app --reload`
+
+2. Visit `localhost:8000`, upload file (`json, yaml`) and set key.
